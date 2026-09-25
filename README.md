@@ -30,3 +30,7 @@ A Python project that analyzes email data from a text file.
 ## What I learned
 
 I practiced working with data from a text file and organizing it using dictionaries, lists, and tuples. I also practiced sorting data to find the most frequent senders.
+
+## Data
+
+The sample email data is from Python for Everybody.
